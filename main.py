@@ -1,8 +1,8 @@
-print("PLANTILLA DE CÓDIGO")
+print("Trabajo 1")
 
-var = 0
+var = 30
 
 if var > 10:
-    print("T E X T O")
+    print("var es mayor a 10")
 else:
-    print("T E X T O")
+    print("var es menor a 10")
