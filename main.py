@@ -1,8 +1,8 @@
-print("C O D I G O   P R I N C I P A L")
+print("PLANTILLA DE CÓDIGO")
 
-num = 32
+var = 0
 
-if num > 10:
-    print("La variable es mayor a 10")
+if var > 10:
+    print("T E X T O")
 else:
-    print("La variable es menor a 10")
+    print("T E X T O")
